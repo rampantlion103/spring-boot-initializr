@@ -1,2 +1,1 @@
-# spring-boot-initializr
-Spring Boot Intializr
+learning-spring-boot-2
